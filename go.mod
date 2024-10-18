@@ -24,7 +24,7 @@ require (
 	google.golang.org/protobuf v1.35.1
 )
 
-replace github.com/livekit/protocol => github.com/Rucord/livekit-protocol v0.0.0-20241018075038-5fd919c519d3
+replace github.com/livekit/protocol => github.com/Rucord/livekit-protocol v1.26.0-free
 
 require (
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect

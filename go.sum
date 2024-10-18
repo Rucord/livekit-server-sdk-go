@@ -1,5 +1,5 @@
-github.com/Rucord/livekit-protocol v0.0.0-20241018075038-5fd919c519d3 h1:RFLg+BbmpdkyGv72LLFLFJ63XMYV58e9IYc+HSFA9TM=
-github.com/Rucord/livekit-protocol v0.0.0-20241018075038-5fd919c519d3/go.mod h1:lWt+v2eu5KFRMlammAkjWv9odR4eOphn59V+cIBTECQ=
+github.com/Rucord/livekit-protocol v1.26.0-free h1:IhsPJqFva03d6Ir7NWTSvnETO3WSbnkXzpBBmh5vAQI=
+github.com/Rucord/livekit-protocol v1.26.0-free/go.mod h1:lWt+v2eu5KFRMlammAkjWv9odR4eOphn59V+cIBTECQ=
 github.com/benbjohnson/clock v1.3.5 h1:VvXlSJBzZpA/zum6Sj74hxwYI2DIxRWuNIoXAzHZz5o=
 github.com/benbjohnson/clock v1.3.5/go.mod h1:J11/hYXuz8f4ySSvYwY0FKfm+ezbsZBKZxNJlLklBHA=
 github.com/bep/debounce v1.2.1 h1:v67fRdBA9UQu2NhLFXrSg0Brw7CexQekrBwDMM8bzeY=
