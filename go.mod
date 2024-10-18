@@ -9,7 +9,7 @@ require (
 	github.com/gorilla/websocket v1.5.2
 	github.com/livekit/mageutil v0.0.0-20230125210925-54e8a70427c1
 	github.com/livekit/mediatransportutil v0.0.0-20240730083616-559fa5ece598
-	github.com/livekit/protocol v1.23.1-0.20241003084409-2406243b2f49
+	github.com/livekit/protocol v1.26.0
 	github.com/magefile/mage v1.15.0
 	github.com/pion/dtls/v2 v2.2.12
 	github.com/pion/interceptor v0.1.30
@@ -24,7 +24,7 @@ require (
 	google.golang.org/protobuf v1.35.1
 )
 
-replace github.com/livekit/protocol => github.com/Rucord/livekit-protocol v1.26.0-free
+replace github.com/livekit/protocol v1.26.0 => github.com/Rucord/livekit-protocol v1.26.0-free
 
 require (
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
