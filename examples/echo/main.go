@@ -11,9 +11,9 @@ import (
 	"github.com/pion/webrtc/v3"
 	"github.com/pion/webrtc/v3/pkg/media"
 
+	lksdk "github.com/Rucord/livekit-server-sdk-go/v2"
 	"github.com/livekit/protocol/auth"
 	"github.com/livekit/protocol/logger"
-	lksdk "github.com/livekit/server-sdk-go/v2"
 )
 
 var (
